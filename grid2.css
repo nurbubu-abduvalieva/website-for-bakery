@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F2F1ED;
+    font-size: 25px;
+}
+
+.h-3{
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 61.47px;
+    letter-spacing: 0.03em;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.p{
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 0.03em;
+    margin-left: 25px;
+    margin-right: 25px;
+}
